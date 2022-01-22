@@ -1,0 +1,23 @@
+{
+  "name": "littleletters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaya22/LittleLetters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijaya22/LittleLetters/issues"
+  },
+  "homepage": "https://github.com/vijaya22/LittleLetters#readme",
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.78.4"
+  }
+}
