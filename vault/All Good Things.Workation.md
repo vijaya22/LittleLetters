@@ -2,7 +2,7 @@
 id: 5m6vvg1j0t6639r5sc8s77p
 title: Workation
 desc: ""
-updated: 1647190477055
+updated: 1647191098407
 created: 1647185087715
 status: ""
 due: ""
@@ -16,4 +16,4 @@ I literally have such good feelings for Quillbot now. I'm so happy. This whole h
 
 P.S.: Now I feel Goa is a place I can live at.
 
-![GOA - Workation](/assets/videos/Workation.mp4)
+![Goa](/assets/images/Goa.jpeg){width: 300px, height: 500px}
