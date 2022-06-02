@@ -52,6 +52,9 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+        taskCompleteStatus:
+            - done
+            - x
     graph:
         zoomSpeed: 1
     enableAutoCreateOnDefinition: false
@@ -65,6 +68,9 @@ workspace:
     maxPreviewsCached: 10
     maxNoteLength: 204800
     dendronVersion: 0.85.0
+    enableHandlebarTemplates: false
+    enableFullHierarchyNoteTitle: false
+    templateHierarchy: template
 preview:
     enableFMTitle: true
     enableNoteTitleForLink: true
@@ -86,7 +92,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
-    siteUrl: 'https://vijaya22.github.io'
+    siteUrl: https://vijaya22.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enableRandomlyColoredTags: true
@@ -104,3 +110,4 @@ publishing:
         editBranch: main
         editViewMode: tree
     enablePrettyLinks: true
+    enableTaskNotes: true
