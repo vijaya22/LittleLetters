@@ -2,7 +2,7 @@
 id: 6w9rs5qm05m2alirbm61e2o
 title: GOA Workation
 desc: ''
-updated: 1678010840308
+updated: 1678011299880
 created: 1674402781441
 ---
 
@@ -15,6 +15,6 @@ The extension gang and the beach drinks, late night games by the pool were all s
 We went to paintball which was so fun. Then we went to Thalassa which was also amazing and on the way down, it was Mayday, ie. the leads went down. ;)
 We also went to North goa - Baga beach , went to the beach clicked some great pictures and had some drinks. We also had fish pedicures. It was so fun. I was so scared at first but you know everyone was. It really was the highlight.
 
-It was really an amazong trip.
+It was really an amazing trip.
 
-![Dough Maker](/assets/images/GoaBeach.jpg){width: 300px, height: 300px}
+![Goa](/assets/images/GoaBeach.jpg){width: 300px, height: 300px}

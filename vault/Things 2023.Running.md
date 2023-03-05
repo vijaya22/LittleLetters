@@ -2,7 +2,7 @@
 id: wokkgjuukukepfvhoat2kk6
 title: Running
 desc: ''
-updated: 1678010829911
+updated: 1678011284080
 created: 1674402906001
 ---
 
@@ -13,6 +13,6 @@ So now I plan to run to 1100 kms in the year 2023, approximately 100kms per mont
 
 Here's a screenshot of my 2022 run summary. ;)
 
-![Dough Maker](/assets/images/StarvaHistory.jpg){width: 300px, height: 300px}
+![Strava](/assets/images/StravaHistory.jpg){width: 300px, height: 300px}
 
 
