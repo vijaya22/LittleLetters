@@ -1,0 +1,1311 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011401243,
+      "created": 1678011401243,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "YShhPIOiY9gLBFyuKEQCk": {
+      "id": "YShhPIOiY9gLBFyuKEQCk",
+      "title": "Root",
+      "desc": "",
+      "updated": 1642878539545,
+      "created": 1642869197932,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f15e435e44cfe35a9df06cada4c2715e",
+      "links": [],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "connect-me-here": {
+          "type": "header",
+          "text": "Connect me here",
+          "value": "connect-me-here",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "WbVPhG0eGVKB5DNZm3TXm",
+        "xw0jbm3oi1u3u5bz0f6in4n",
+        "vlsaolkvabjt28cvw7z1zos",
+        "7loq0k9knva0f1v64buqfys",
+        "5o0txrnzddmbeiz8kcvopo6",
+        "ut4ntds1b8vk7td1xwx8t03",
+        "6u4oj7vfxc6op8azjfzwzau"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "6u4oj7vfxc6op8azjfzwzau": {
+      "fname": "meet",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011400917,
+      "created": 1678011400917,
+      "id": "6u4oj7vfxc6op8azjfzwzau",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4uuxba1zkvxkuetptt0lr3c"
+      ],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {},
+      "title": "Meet",
+      "schema": {
+        "schemaId": "meet",
+        "moduleId": "meet"
+      }
+    },
+    "4uuxba1zkvxkuetptt0lr3c": {
+      "fname": "meet.2022",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011400917,
+      "created": 1678011400917,
+      "id": "4uuxba1zkvxkuetptt0lr3c",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "4qa7dd8di3o699jokbsco19"
+      ],
+      "parent": "6u4oj7vfxc6op8azjfzwzau",
+      "data": {},
+      "title": "2022",
+      "schema": {
+        "schemaId": "z7onku0extjqvfo3gzoshmj",
+        "moduleId": "meet"
+      }
+    },
+    "4qa7dd8di3o699jokbsco19": {
+      "fname": "meet.2022.06",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011400917,
+      "created": 1678011400917,
+      "id": "4qa7dd8di3o699jokbsco19",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "f5ypscehq7rxdns4tfw4t42"
+      ],
+      "parent": "4uuxba1zkvxkuetptt0lr3c",
+      "data": {},
+      "title": "06",
+      "schema": {
+        "schemaId": "lm2p9vmuzn4j1gbfylen5c7",
+        "moduleId": "meet"
+      }
+    },
+    "f5ypscehq7rxdns4tfw4t42": {
+      "id": "f5ypscehq7rxdns4tfw4t42",
+      "title": "02",
+      "desc": "",
+      "updated": 1654173493945,
+      "created": 1654171513381,
+      "traitIds": [
+        "meetingNote"
+      ],
+      "custom": {},
+      "fname": "meet.2022.06.02",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "ffa3343fc4047cb07f6c76d4a5d661f0",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "meet.2022.06.02",
+            "id": "f5ypscehq7rxdns4tfw4t42",
+            "vaultName": "vault"
+          },
+          "value": "user.Vijaya",
+          "alias": "@Vijaya",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 38
+            },
+            "end": {
+              "line": 6,
+              "column": 10,
+              "offset": 45
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.Vijaya"
+          }
+        }
+      ],
+      "anchors": {
+        "attendees": {
+          "type": "header",
+          "text": "Attendees",
+          "value": "attendees",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 16,
+          "column": 0,
+          "depth": 2
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "action-items": {
+          "type": "header",
+          "text": "Action Items",
+          "value": "action-items",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "tech-takeaways": {
+          "type": "header",
+          "text": "Tech Takeaways",
+          "value": "tech-takeaways",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "4qa7dd8di3o699jokbsco19",
+      "data": {},
+      "schema": {
+        "schemaId": "1iq9exb4tc5feu0efhe0ro9",
+        "moduleId": "meet"
+      }
+    },
+    "ut4ntds1b8vk7td1xwx8t03": {
+      "fname": "dendron",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011400916,
+      "created": 1678011400916,
+      "id": "ut4ntds1b8vk7td1xwx8t03",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "0o3jwp2mydcyyoey8cm9ywo"
+      ],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {},
+      "title": "Dendron"
+    },
+    "0o3jwp2mydcyyoey8cm9ywo": {
+      "fname": "dendron.templates",
+      "stub": true,
+      "vault": {
+        "fsPath": "vault"
+      },
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1678011400917,
+      "created": 1678011400917,
+      "id": "0o3jwp2mydcyyoey8cm9ywo",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "dendronMeetingNoteTemplate"
+      ],
+      "parent": "ut4ntds1b8vk7td1xwx8t03",
+      "data": {},
+      "title": "Templates"
+    },
+    "dendronMeetingNoteTemplate": {
+      "id": "dendronMeetingNoteTemplate",
+      "title": "Meeting Notes Template",
+      "desc": "",
+      "updated": 1654171513311,
+      "created": 1654171513311,
+      "custom": {},
+      "fname": "dendron.templates.meet",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e3c63942401fb328d908f3c9cb5ad0d5",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dendron.templates.meet",
+            "id": "dendronMeetingNoteTemplate",
+            "vaultName": "vault"
+          },
+          "value": "dendron.templates.meet",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 37,
+              "offset": 36
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "dendron.templates.meet"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "dendron.templates.meet",
+            "id": "dendronMeetingNoteTemplate",
+            "vaultName": "vault"
+          },
+          "value": "user.JohnDoe",
+          "alias": "@JohnDoe",
+          "position": {
+            "start": {
+              "line": 6,
+              "column": 3,
+              "offset": 250
+            },
+            "end": {
+              "line": 6,
+              "column": 11,
+              "offset": 258
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "user.JohnDoe"
+          }
+        },
+        {
+          "from": {
+            "fname": "dendron.templates.meet",
+            "id": "dendronMeetingNoteTemplate",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 11,
+              "offset": 10
+            },
+            "end": {
+              "line": 1,
+              "column": 37,
+              "offset": 36
+            },
+            "indent": []
+          },
+          "value": "dendron.templates.meet"
+        }
+      ],
+      "anchors": {
+        "attendees": {
+          "type": "header",
+          "text": "Attendees",
+          "value": "attendees",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "goals": {
+          "type": "header",
+          "text": "Goals",
+          "value": "goals",
+          "line": 14,
+          "column": 0,
+          "depth": 2
+        },
+        "agenda": {
+          "type": "header",
+          "text": "Agenda",
+          "value": "agenda",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "minutes": {
+          "type": "header",
+          "text": "Minutes",
+          "value": "minutes",
+          "line": 20,
+          "column": 0,
+          "depth": 2
+        },
+        "action-items": {
+          "type": "header",
+          "text": "Action Items",
+          "value": "action-items",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "0o3jwp2mydcyyoey8cm9ywo",
+      "data": {}
+    },
+    "5o0txrnzddmbeiz8kcvopo6": {
+      "id": "5o0txrnzddmbeiz8kcvopo6",
+      "title": "Things 2023",
+      "desc": "",
+      "updated": 1674403412532,
+      "created": 1674402599881,
+      "custom": {},
+      "fname": "Things 2023",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2ba2b5c020d30ed9db2ff93e463f51de",
+      "links": [],
+      "anchors": {
+        "things-2023": {
+          "type": "header",
+          "text": "Things 2023",
+          "value": "things-2023",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "h7rmqxci10rc0kecp76x9j8",
+        "6w9rs5qm05m2alirbm61e2o",
+        "tswbmviab9nae119mb1bdzm",
+        "wokkgjuukukepfvhoat2kk6"
+      ],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {}
+    },
+    "wokkgjuukukepfvhoat2kk6": {
+      "id": "wokkgjuukukepfvhoat2kk6",
+      "title": "Running",
+      "desc": "",
+      "updated": 1678011284080,
+      "created": 1674402906001,
+      "custom": {},
+      "fname": "Things 2023.Running",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "13689e25f0ec30c353dae4d375e67278",
+      "links": [],
+      "anchors": {
+        "running": {
+          "type": "header",
+          "text": "Running",
+          "value": "running",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5o0txrnzddmbeiz8kcvopo6",
+      "data": {}
+    },
+    "tswbmviab9nae119mb1bdzm": {
+      "id": "tswbmviab9nae119mb1bdzm",
+      "title": "Home Coming",
+      "desc": "",
+      "updated": 1674405207019,
+      "created": 1674403238300,
+      "custom": {},
+      "fname": "Things 2023.Home Coming",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a2a966cdfd7ef00a5f1d816b1a16d2b0",
+      "links": [],
+      "anchors": {
+        "home-coming": {
+          "type": "header",
+          "text": "Home Coming",
+          "value": "home-coming",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5o0txrnzddmbeiz8kcvopo6",
+      "data": {}
+    },
+    "6w9rs5qm05m2alirbm61e2o": {
+      "id": "6w9rs5qm05m2alirbm61e2o",
+      "title": "GOA Workation",
+      "desc": "",
+      "updated": 1678011299880,
+      "created": 1674402781441,
+      "custom": {},
+      "fname": "Things 2023.GOA Workation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9d65f66def1c22d1ae7ff16a0915e647",
+      "links": [],
+      "anchors": {
+        "goa-workation": {
+          "type": "header",
+          "text": "Goa Workation",
+          "value": "goa-workation",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5o0txrnzddmbeiz8kcvopo6",
+      "data": {}
+    },
+    "h7rmqxci10rc0kecp76x9j8": {
+      "id": "h7rmqxci10rc0kecp76x9j8",
+      "title": "Cancer",
+      "desc": "",
+      "updated": 1678005683955,
+      "created": 1678004271073,
+      "custom": {},
+      "fname": "Things 2023.Cancer",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3b57ed612d080e4d8afe947cf1d991d4",
+      "links": [],
+      "anchors": {
+        "cancer": {
+          "type": "header",
+          "text": "Cancer",
+          "value": "cancer",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [],
+      "parent": "5o0txrnzddmbeiz8kcvopo6",
+      "data": {}
+    },
+    "7loq0k9knva0f1v64buqfys": {
+      "id": "7loq0k9knva0f1v64buqfys",
+      "title": "Takiyasu Aritesis",
+      "desc": "",
+      "updated": 1678004220616,
+      "created": 1650955431853,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "Takiyasu Aritesis",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a824698b0ca7d3038bed8863587716ed",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {}
+    },
+    "vlsaolkvabjt28cvw7z1zos": {
+      "id": "vlsaolkvabjt28cvw7z1zos",
+      "title": "NewThingytolearn",
+      "desc": "",
+      "updated": 1658398418055,
+      "created": 1654171463844,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "NewThingytolearn",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "2b5fb0d551dbad307e0b4c32a8e81a2b",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "9ae0fng3sazhdj3b0gy232u",
+        "lcsr3zkiw3ez0l6tbwa7in6"
+      ],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {}
+    },
+    "lcsr3zkiw3ez0l6tbwa7in6": {
+      "id": "lcsr3zkiw3ez0l6tbwa7in6",
+      "title": "Serialization Deserialization",
+      "desc": "",
+      "updated": 1658395437047,
+      "created": 1658395197696,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "NewThingytolearn.Serialization Deserialization",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3dba790bc8af8cf38ae5943071e140cf",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "vlsaolkvabjt28cvw7z1zos",
+      "data": {}
+    },
+    "9ae0fng3sazhdj3b0gy232u": {
+      "id": "9ae0fng3sazhdj3b0gy232u",
+      "title": "Redux",
+      "desc": "",
+      "updated": 1658379298947,
+      "created": 1658377656534,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "NewThingytolearn.Redux",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9aa04ce5d2dbaef255443ae9ad5aeded",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "vlsaolkvabjt28cvw7z1zos",
+      "data": {}
+    },
+    "xw0jbm3oi1u3u5bz0f6in4n": {
+      "id": "xw0jbm3oi1u3u5bz0f6in4n",
+      "title": "Meetings take aways",
+      "desc": "",
+      "updated": 1654160636438,
+      "created": 1650955465293,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "Meetings take aways",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4de75d2ccf087b1c60f4aa80b67d9c1b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {}
+    },
+    "WbVPhG0eGVKB5DNZm3TXm": {
+      "id": "WbVPhG0eGVKB5DNZm3TXm",
+      "title": "All Good Things",
+      "desc": "",
+      "updated": 1642967276538,
+      "created": 1642965520355,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1276c2852c4731e34b72c21cb66243c0",
+      "links": [],
+      "anchors": {
+        "all-the-good-things": {
+          "type": "header",
+          "text": "All the good things",
+          "value": "all-the-good-things",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "LVhZuqYnPBcpyd447yIAX",
+        "8ts9srhxifv327odoufd7s9",
+        "0TuQCjmfuItbuaq1z9nRY",
+        "yn4rn2dujj92v3lvav9zmap",
+        "5tirvf8mi1aug7gv7gk3dhc",
+        "24gn9k2d2h8l5jmx09i996s",
+        "G4a3I0mQUqWbxXXC4Khja",
+        "jifvfwis8mrifhhrcvcnc9k",
+        "t5jjj97w9ddqd5h8uy84u72",
+        "66sybfakyuqt0yjem2dmany",
+        "ksdZeardTxQIisyxWCWy6",
+        "J1YPauYgMxXUPhd0CULzm",
+        "stmi95hWltOhh68zhSxxi",
+        "65VCUTuT8U0Lz3bHOlCFA",
+        "vfuv7lwm2o5tgtlxe1xqfnl",
+        "5m6vvg1j0t6639r5sc8s77p"
+      ],
+      "parent": "YShhPIOiY9gLBFyuKEQCk",
+      "data": {}
+    },
+    "5m6vvg1j0t6639r5sc8s77p": {
+      "id": "5m6vvg1j0t6639r5sc8s77p",
+      "title": "Workation",
+      "desc": "",
+      "updated": 1647191098407,
+      "created": 1647185087715,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Workation",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "873b2da222f462dfee1398d973ee0e3e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "vfuv7lwm2o5tgtlxe1xqfnl": {
+      "id": "vfuv7lwm2o5tgtlxe1xqfnl",
+      "title": "SupremeS",
+      "desc": "",
+      "updated": 1654173176307,
+      "created": 1647186528275,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.SupremeS",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8ab51eaa2cfc3a2557c597723a652afb",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "65VCUTuT8U0Lz3bHOlCFA": {
+      "id": "65VCUTuT8U0Lz3bHOlCFA",
+      "title": "Start of the year",
+      "desc": "",
+      "updated": 1644774020564,
+      "created": 1642968119084,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Start of the year",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7358b611a507f7787b3b58e4da843c27",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "stmi95hWltOhh68zhSxxi": {
+      "id": "stmi95hWltOhh68zhSxxi",
+      "title": "Something's happening",
+      "desc": "",
+      "updated": 1644774012833,
+      "created": 1644772304679,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Something's happening",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "dbe1326bdc6915e71ca9b67858ab3742",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "J1YPauYgMxXUPhd0CULzm": {
+      "id": "J1YPauYgMxXUPhd0CULzm",
+      "title": "Running",
+      "desc": "",
+      "updated": 1644774012834,
+      "created": 1642968148301,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Running",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "c69c2fe863535f8ed23989a775375e63",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "ksdZeardTxQIisyxWCWy6": {
+      "id": "ksdZeardTxQIisyxWCWy6",
+      "title": "Quillbot",
+      "desc": "",
+      "updated": 1644774000416,
+      "created": 1644080377418,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Quillbot",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7e31e933624a2c4c2b9ff54fab444ba1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "66sybfakyuqt0yjem2dmany": {
+      "id": "66sybfakyuqt0yjem2dmany",
+      "title": "Netflix and chill",
+      "desc": "",
+      "updated": 1654173154823,
+      "created": 1650731032155,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Netflix and chill",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "445cb72692b5adf6af3a2a4a3a268750",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "t5jjj97w9ddqd5h8uy84u72": {
+      "id": "t5jjj97w9ddqd5h8uy84u72",
+      "title": "Movie Night",
+      "desc": "",
+      "updated": 1654173145110,
+      "created": 1648472039477,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Movie Night",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "221b306fda1df131d00c6f2f9d847bc1",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "jifvfwis8mrifhhrcvcnc9k": {
+      "id": "jifvfwis8mrifhhrcvcnc9k",
+      "title": "MissingHomeAtHome",
+      "desc": "",
+      "updated": 1647191530199,
+      "created": 1647186488344,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.MissingHomeAtHome",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "53a174555f5292f9b90bc4542967a8d3",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "G4a3I0mQUqWbxXXC4Khja": {
+      "id": "G4a3I0mQUqWbxXXC4Khja",
+      "title": "MIND",
+      "desc": "",
+      "updated": 1644773993941,
+      "created": 1642968173646,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.MIND",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "d8330182453a567065c290cd0cbfff75",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "24gn9k2d2h8l5jmx09i996s": {
+      "id": "24gn9k2d2h8l5jmx09i996s",
+      "title": "Ludo Nights",
+      "desc": "",
+      "updated": 1654173072661,
+      "created": 1650731337831,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Ludo Nights",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "129548321e393478b705b38320bfceed",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "5tirvf8mi1aug7gv7gk3dhc": {
+      "id": "5tirvf8mi1aug7gv7gk3dhc",
+      "title": "Long Distance Date Night",
+      "desc": "",
+      "updated": 1654173042977,
+      "created": 1654172472952,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Long Distance Date Night",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "1a663c5a102df6e8167d2ee6aa71e96b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "yn4rn2dujj92v3lvav9zmap": {
+      "id": "yn4rn2dujj92v3lvav9zmap",
+      "title": "It is Successful",
+      "desc": "",
+      "updated": 1650731309851,
+      "created": 1650731302651,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.It is Successful",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "8bbde845b744989f1e7db340be8dae8f",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "0TuQCjmfuItbuaq1z9nRY": {
+      "id": "0TuQCjmfuItbuaq1z9nRY",
+      "title": "Dough Maker",
+      "desc": "",
+      "updated": 1644773993943,
+      "created": 1643486259854,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Dough Maker",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "866ed156541dcae772b766164949489b",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "8ts9srhxifv327odoufd7s9": {
+      "id": "8ts9srhxifv327odoufd7s9",
+      "title": "Date Night",
+      "desc": "",
+      "updated": 1654173059408,
+      "created": 1648471981488,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Date Night",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "4fd5b51ff0d6130e7d3b78c421fac45e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    },
+    "LVhZuqYnPBcpyd447yIAX": {
+      "id": "LVhZuqYnPBcpyd447yIAX",
+      "title": "Chicken",
+      "desc": "",
+      "updated": 1644774028406,
+      "created": 1642968086883,
+      "status": "",
+      "due": "",
+      "priority": "",
+      "owner": "",
+      "custom": {
+        "status": "",
+        "due": "",
+        "priority": "",
+        "owner": ""
+      },
+      "fname": "All Good Things.Chicken",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "9a27a0c63d29829d6c269163eb53c70e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "WbVPhG0eGVKB5DNZm3TXm",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "YShhPIOiY9gLBFyuKEQCk",
+      "title": "Root",
+      "desc": "",
+      "updated": 1642878539545,
+      "created": 1642869197932,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f15e435e44cfe35a9df06cada4c2715e",
+      "links": [],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "connect-me-here": {
+          "type": "header",
+          "text": "Connect me here",
+          "value": "connect-me-here",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "WbVPhG0eGVKB5DNZm3TXm",
+        "xw0jbm3oi1u3u5bz0f6in4n",
+        "vlsaolkvabjt28cvw7z1zos",
+        "7loq0k9knva0f1v64buqfys",
+        "5o0txrnzddmbeiz8kcvopo6",
+        "ut4ntds1b8vk7td1xwx8t03",
+        "6u4oj7vfxc6op8azjfzwzau"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Notes\n\nJust trying out dendron for the first time. \nAlso I realized I'm slowly becoming a nerd now so I guess blogs/ notes/ journals are a good place to start.\nPlease feel free to provide feedback and suggestions [here](mailto:vijaya2798@gmail.com).\n\n## Connect me here\n\nAlso checkout my other profiles here - \n - [Twitter](https://twitter.com/vijaya2296)\n - [Github](https://github.com/vijaya22)\n - [LinkedIn](https://www.linkedin.com/in/vijayalaxmi166/)\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "YShhPIOiY9gLBFyuKEQCk",
+    "title": "Root",
+    "desc": "",
+    "updated": 1642878539545,
+    "created": 1642869197932,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "f15e435e44cfe35a9df06cada4c2715e",
+    "links": [],
+    "anchors": {
+      "notes": {
+        "type": "header",
+        "text": "Notes",
+        "value": "notes",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "connect-me-here": {
+        "type": "header",
+        "text": "Connect me here",
+        "value": "connect-me-here",
+        "line": 13,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [
+      "WbVPhG0eGVKB5DNZm3TXm",
+      "xw0jbm3oi1u3u5bz0f6in4n",
+      "vlsaolkvabjt28cvw7z1zos",
+      "7loq0k9knva0f1v64buqfys",
+      "5o0txrnzddmbeiz8kcvopo6",
+      "ut4ntds1b8vk7td1xwx8t03",
+      "6u4oj7vfxc6op8azjfzwzau"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Notes\n\nJust trying out dendron for the first time. \nAlso I realized I'm slowly becoming a nerd now so I guess blogs/ notes/ journals are a good place to start.\nPlease feel free to provide feedback and suggestions [here](mailto:vijaya2798@gmail.com).\n\n## Connect me here\n\nAlso checkout my other profiles here - \n - [Twitter](https://twitter.com/vijaya2296)\n - [Github](https://github.com/vijaya22)\n - [LinkedIn](https://www.linkedin.com/in/vijayalaxmi166/)\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}

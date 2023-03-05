@@ -1,0 +1,356 @@
+{
+  "roots": [
+    {
+      "key": "WbVPhG0eGVKB5DNZm3TXm",
+      "title": "All Good Things",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "LVhZuqYnPBcpyd447yIAX",
+          "title": "Chicken",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "8ts9srhxifv327odoufd7s9",
+          "title": "Date Night",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "0TuQCjmfuItbuaq1z9nRY",
+          "title": "Dough Maker",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "yn4rn2dujj92v3lvav9zmap",
+          "title": "It is Successful",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "5tirvf8mi1aug7gv7gk3dhc",
+          "title": "Long Distance Date Night",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "24gn9k2d2h8l5jmx09i996s",
+          "title": "Ludo Nights",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "G4a3I0mQUqWbxXXC4Khja",
+          "title": "MIND",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "jifvfwis8mrifhhrcvcnc9k",
+          "title": "MissingHomeAtHome",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "t5jjj97w9ddqd5h8uy84u72",
+          "title": "Movie Night",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "66sybfakyuqt0yjem2dmany",
+          "title": "Netflix and chill",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "ksdZeardTxQIisyxWCWy6",
+          "title": "Quillbot",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "J1YPauYgMxXUPhd0CULzm",
+          "title": "Running",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "stmi95hWltOhh68zhSxxi",
+          "title": "Something's happening",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "65VCUTuT8U0Lz3bHOlCFA",
+          "title": "Start of the year",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "vfuv7lwm2o5tgtlxe1xqfnl",
+          "title": "SupremeS",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "5m6vvg1j0t6639r5sc8s77p",
+          "title": "Workation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "xw0jbm3oi1u3u5bz0f6in4n",
+      "title": "Meetings take aways",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "vlsaolkvabjt28cvw7z1zos",
+      "title": "NewThingytolearn",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "9ae0fng3sazhdj3b0gy232u",
+          "title": "Redux",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "lcsr3zkiw3ez0l6tbwa7in6",
+          "title": "Serialization Deserialization",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "7loq0k9knva0f1v64buqfys",
+      "title": "Takiyasu Aritesis",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": []
+    },
+    {
+      "key": "5o0txrnzddmbeiz8kcvopo6",
+      "title": "Things 2023",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "h7rmqxci10rc0kecp76x9j8",
+          "title": "Cancer",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "6w9rs5qm05m2alirbm61e2o",
+          "title": "GOA Workation",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "tswbmviab9nae119mb1bdzm",
+          "title": "Home Coming",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        },
+        {
+          "key": "wokkgjuukukepfvhoat2kk6",
+          "title": "Running",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "ut4ntds1b8vk7td1xwx8t03",
+      "title": "Dendron",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "0o3jwp2mydcyyoey8cm9ywo",
+          "title": "Templates",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "dendronMeetingNoteTemplate",
+              "title": "Meeting Notes Template",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "key": "6u4oj7vfxc6op8azjfzwzau",
+      "title": "Meet",
+      "icon": "plusOutlined",
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "4uuxba1zkvxkuetptt0lr3c",
+          "title": "2022",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "4qa7dd8di3o699jokbsco19",
+              "title": "06",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "f5ypscehq7rxdns4tfw4t42",
+                  "title": "02",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "WbVPhG0eGVKB5DNZm3TXm": null,
+    "LVhZuqYnPBcpyd447yIAX": "WbVPhG0eGVKB5DNZm3TXm",
+    "8ts9srhxifv327odoufd7s9": "WbVPhG0eGVKB5DNZm3TXm",
+    "0TuQCjmfuItbuaq1z9nRY": "WbVPhG0eGVKB5DNZm3TXm",
+    "yn4rn2dujj92v3lvav9zmap": "WbVPhG0eGVKB5DNZm3TXm",
+    "5tirvf8mi1aug7gv7gk3dhc": "WbVPhG0eGVKB5DNZm3TXm",
+    "24gn9k2d2h8l5jmx09i996s": "WbVPhG0eGVKB5DNZm3TXm",
+    "G4a3I0mQUqWbxXXC4Khja": "WbVPhG0eGVKB5DNZm3TXm",
+    "jifvfwis8mrifhhrcvcnc9k": "WbVPhG0eGVKB5DNZm3TXm",
+    "t5jjj97w9ddqd5h8uy84u72": "WbVPhG0eGVKB5DNZm3TXm",
+    "66sybfakyuqt0yjem2dmany": "WbVPhG0eGVKB5DNZm3TXm",
+    "ksdZeardTxQIisyxWCWy6": "WbVPhG0eGVKB5DNZm3TXm",
+    "J1YPauYgMxXUPhd0CULzm": "WbVPhG0eGVKB5DNZm3TXm",
+    "stmi95hWltOhh68zhSxxi": "WbVPhG0eGVKB5DNZm3TXm",
+    "65VCUTuT8U0Lz3bHOlCFA": "WbVPhG0eGVKB5DNZm3TXm",
+    "vfuv7lwm2o5tgtlxe1xqfnl": "WbVPhG0eGVKB5DNZm3TXm",
+    "5m6vvg1j0t6639r5sc8s77p": "WbVPhG0eGVKB5DNZm3TXm",
+    "xw0jbm3oi1u3u5bz0f6in4n": null,
+    "vlsaolkvabjt28cvw7z1zos": null,
+    "9ae0fng3sazhdj3b0gy232u": "vlsaolkvabjt28cvw7z1zos",
+    "lcsr3zkiw3ez0l6tbwa7in6": "vlsaolkvabjt28cvw7z1zos",
+    "7loq0k9knva0f1v64buqfys": null,
+    "5o0txrnzddmbeiz8kcvopo6": null,
+    "h7rmqxci10rc0kecp76x9j8": "5o0txrnzddmbeiz8kcvopo6",
+    "6w9rs5qm05m2alirbm61e2o": "5o0txrnzddmbeiz8kcvopo6",
+    "tswbmviab9nae119mb1bdzm": "5o0txrnzddmbeiz8kcvopo6",
+    "wokkgjuukukepfvhoat2kk6": "5o0txrnzddmbeiz8kcvopo6",
+    "ut4ntds1b8vk7td1xwx8t03": null,
+    "0o3jwp2mydcyyoey8cm9ywo": "ut4ntds1b8vk7td1xwx8t03",
+    "dendronMeetingNoteTemplate": "0o3jwp2mydcyyoey8cm9ywo",
+    "6u4oj7vfxc6op8azjfzwzau": null,
+    "4uuxba1zkvxkuetptt0lr3c": "6u4oj7vfxc6op8azjfzwzau",
+    "4qa7dd8di3o699jokbsco19": "4uuxba1zkvxkuetptt0lr3c",
+    "f5ypscehq7rxdns4tfw4t42": "4qa7dd8di3o699jokbsco19"
+  },
+  "notesLabelById": {
+    "WbVPhG0eGVKB5DNZm3TXm": "All Good Things",
+    "LVhZuqYnPBcpyd447yIAX": "Chicken",
+    "8ts9srhxifv327odoufd7s9": "Date Night",
+    "0TuQCjmfuItbuaq1z9nRY": "Dough Maker",
+    "yn4rn2dujj92v3lvav9zmap": "It is Successful",
+    "5tirvf8mi1aug7gv7gk3dhc": "Long Distance Date Night",
+    "24gn9k2d2h8l5jmx09i996s": "Ludo Nights",
+    "G4a3I0mQUqWbxXXC4Khja": "MIND",
+    "jifvfwis8mrifhhrcvcnc9k": "MissingHomeAtHome",
+    "t5jjj97w9ddqd5h8uy84u72": "Movie Night",
+    "66sybfakyuqt0yjem2dmany": "Netflix and chill",
+    "ksdZeardTxQIisyxWCWy6": "Quillbot",
+    "J1YPauYgMxXUPhd0CULzm": "Running",
+    "stmi95hWltOhh68zhSxxi": "Something's happening",
+    "65VCUTuT8U0Lz3bHOlCFA": "Start of the year",
+    "vfuv7lwm2o5tgtlxe1xqfnl": "SupremeS",
+    "5m6vvg1j0t6639r5sc8s77p": "Workation",
+    "xw0jbm3oi1u3u5bz0f6in4n": "Meetings take aways",
+    "vlsaolkvabjt28cvw7z1zos": "NewThingytolearn",
+    "9ae0fng3sazhdj3b0gy232u": "Redux",
+    "lcsr3zkiw3ez0l6tbwa7in6": "Serialization Deserialization",
+    "7loq0k9knva0f1v64buqfys": "Takiyasu Aritesis",
+    "5o0txrnzddmbeiz8kcvopo6": "Things 2023",
+    "h7rmqxci10rc0kecp76x9j8": "Cancer",
+    "6w9rs5qm05m2alirbm61e2o": "GOA Workation",
+    "tswbmviab9nae119mb1bdzm": "Home Coming",
+    "wokkgjuukukepfvhoat2kk6": "Running",
+    "ut4ntds1b8vk7td1xwx8t03": "Dendron",
+    "0o3jwp2mydcyyoey8cm9ywo": "Templates",
+    "dendronMeetingNoteTemplate": "Meeting Notes Template",
+    "6u4oj7vfxc6op8azjfzwzau": "Meet",
+    "4uuxba1zkvxkuetptt0lr3c": "2022",
+    "4qa7dd8di3o699jokbsco19": "06",
+    "f5ypscehq7rxdns4tfw4t42": "02"
+  }
+}
